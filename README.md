@@ -14,9 +14,6 @@ End-to-End Business Intelligence Project combining **Sales Analytics**, **Supply
 
 ![Supply Chain Dashboard](Images/Supply_Chain_Dashboard.png)
 
-## Data Model
-
-![Data Model](Images/Data Modeling.png)
 
 ---
 
